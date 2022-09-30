@@ -1,0 +1,2 @@
+使用C++ 、Java语言或者python3实现，提交python代码时请附带上requirements.txt。
+C++请使用Visual Studio Community 2017进行开发，运行环境为64-bit Windows 10。对于C++/Java，还需将编译好的程序发布到Github仓库中的releases中
